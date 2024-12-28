@@ -1,0 +1,12 @@
+< en_US.lang - English localization file for HelpfulVillagers >
+entity.helpfulvillagers.Archer.name=Archer
+entity.helpfulvillagers.Builder.name=Builder
+entity.helpfulvillagers.Farmer.name=Farmer
+entity.helpfulvillagers.Fisherman.name=Fisherman
+entity.helpfulvillagers.Lumberjack.name=Lumberjack
+entity.helpfulvillagers.Merchant.name=Merchant
+entity.helpfulvillagers.Miner.name=Miner
+entity.helpfulvillagers.Rancher.name=Rancher
+entity.helpfulvillagers.Soldier.name=Soldier
+entity.helpfulvillagers.Villager.name=Villager
+tile.construction_fence.name=Construction Fence
